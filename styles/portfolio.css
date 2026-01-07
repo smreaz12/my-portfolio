@@ -53,7 +53,13 @@ header{
     background-repeat: no-repeat;
     background-position: 23px 38px , bottom right;
     padding-top: 50px;
+    background-size: 90px, auto;
+
+ 
 }
+
+
+
 
 nav{
     width: 71%;
@@ -92,6 +98,8 @@ nav .menu a{
     display: flex;
     justify-content: space-between;
     align-items: center;
+   
+
 }
 
 #banner .banner-content h2{
@@ -121,6 +129,8 @@ nav .menu a{
 #banner .banner-img img{
     max-width: 585px;
     vertical-align: middle;
+    
+ 
 
 }
 
